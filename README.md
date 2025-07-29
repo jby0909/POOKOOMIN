@@ -64,7 +64,7 @@ sequenceDiagram
 
 ```
 
-### Google Static Map API
+### Google Fit API - Android Native Code java
 🚀 워크플로우: Google Fit 권한 요청 및 걸음 수 동기화, 갤러리 접근
 Unity에서 Java 클래스를 호출하여 Google Fit 권한 요청 및 센서 등록을 진행합니다.
 (개별 자바 클래스는 안드로이드 스튜디오 외부 라이브러리로 제작해서 aar 파일 형태로 빌드 :: 외부 플러그인)
