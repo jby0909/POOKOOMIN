@@ -109,6 +109,7 @@ sequenceDiagram
 
 ### 🚀 워크플로우: AR 콘텐츠 인식 및 배치 과정
 AR Foundation의 AR PlaneManager와 AR RaycastManager 컴포넌트에 의한 평면인식을 진행합니다.
+
 호출 버튼을 누르면 평면인식된 화면의 중앙에 투명한 플레인이 생성되고, NavMesh를 빌드한 후 펫 캐릭터(NavMeshAgent)가 배치됩니다. 
 
 
