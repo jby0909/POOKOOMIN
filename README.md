@@ -14,7 +14,7 @@
 ---
 
 ## 📖 게임 영상
-[![Game Demo](https://img.youtube.com/vi/fPzQFjNRLDo/0.jpg)](https://youtube.com/shorts/fPzQFjNRLDo)
+[![Game Demo](https://drive.google.com/file/d/1P582c4NHeuPsHab1NBjQ4_4MlgiTQWHv/view?usp=drive_link)
 
 ---
 ## 📄 목차  
